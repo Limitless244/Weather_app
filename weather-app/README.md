@@ -7,5 +7,6 @@ A simple and responsive Weather Application built using React (Vite) that allows
 Run the following command inside your project directory:
 
 npm run dev
+
 🌐 After running the above command, open:
 http://localhost:5173/
